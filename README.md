@@ -7,7 +7,7 @@ Basic image analysis operations:
 - Generating an histogram for an image
 - Implementing and applying Otsu's thresholding method
 - Implementing and applying Dilation and erosion operations to an image
-- Implemented in MATLAB
+- Implemented in MATLAB,
 **Assignment grade**: 90
 ### Homework 2:
 Assignment based on basic level deep learning knowledge
