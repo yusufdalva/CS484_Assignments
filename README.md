@@ -11,7 +11,7 @@ Basic image analysis operations:
 **Assignment grade**: 90
 ### Homework 2:
 Assignment based on basic level deep learning knowledge
-- Implementing Logistic Regression classification algorithm bot with iterative (for loop based) and matrix based approach
+- Implementing Logistic Regression classification algorithm both with iterative (for loop based) and matrix based approach
 - Parameter fine-tuning with Logistic Regresion classifier
 - Modification of the CNN model provided in https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py
 - Testing and fine-tuning the model with AdaDelta and SGD optimizers
